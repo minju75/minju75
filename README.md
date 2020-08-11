@@ -13,11 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: www.naver.com
 - 😄 Pronouns: Happy, singing, Japan
 - ⚡ Fun fact: music, movie
--->
-
-
-
-
-
-
-(https://github-readme-stats.vercel.app/api?minju75=anuraghazra)(https://github.com/minju75/TIL)
+-->[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minju75)](https://github.com/anuraghazra/github-readme-stats)
