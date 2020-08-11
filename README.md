@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 
 
-(https://github-readme-stats.vercel.app/api?minju75=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?minju75=anuraghazra)(https://github.com/minju75/TIL)
