@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about everything! 
-- 📫 How to reach me: www.naver.com
+- 📫 How to reach me: sdr9873@naver.com
 - 😄 Pronouns: Happy, singing, Japan
 - ⚡ Fun fact: music, movie
 (https://github-readme-stats.vercel.app/api?username=minju75)(https://github.com/anuraghazra/github-readme-stats)
